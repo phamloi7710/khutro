@@ -1,0 +1,13 @@
+.center{
+	text-align: center;
+}
+.count-number{
+	color: #fff; 
+	background-color: #00B79D; 
+	border: none; 
+	height: 10px;
+}
+.sectionKhuTro{
+	background-color: red;
+	text-align: center;
+}
